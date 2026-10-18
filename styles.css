@@ -8,3 +8,19 @@ body.homepage header {
 body.big-data header {
   background: #245E59;
 }
+/* Keep portfolio content readable */
+body.big-data {
+  color: #243243;
+}
+
+body.big-data article,
+body.big-data .panel,
+body.big-data .card {
+  color: #243243;
+  background: #ffffff;
+}
+
+body.big-data header {
+  background: #245E59;
+  color: #ffffff;
+}
