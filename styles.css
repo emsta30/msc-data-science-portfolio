@@ -12,7 +12,26 @@ body.big-data header {
 body.big-data {
   color: #243243;
 }
+/* Deciphering Big Data: restore page layout and contrast */
+body.big-data {
+  background: #f4f6f8 !important;
+  color: #243243 !important;
+}
 
+body.big-data main article,
+body.big-data main article p,
+body.big-data main article li {
+  color: #243243 !important;
+}
+
+body.big-data header {
+  background: #245E59 !important;
+  color: #ffffff !important;
+}
+
+body.big-data header p {
+  color: #d6e1e9 !important;
+}
 body.big-data article,
 body.big-data .panel,
 body.big-data .card {
