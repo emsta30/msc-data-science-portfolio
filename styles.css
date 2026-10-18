@@ -43,3 +43,11 @@ body.big-data header {
   background: #245E59;
   color: #ffffff;
 }
+/* Keep teal for the header only */
+body.big-data {
+  background: #f4f6f8 !important;
+}
+
+body.big-data header {
+  background: #245E59 !important;
+}
